@@ -1,4 +1,4 @@
-temporary for, waiting for https://github.com/y0ssar1an/q/issues/67
+temporary fork, waiting for https://github.com/y0ssar1an/q/issues/67
 
 
 # q
