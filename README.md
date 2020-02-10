@@ -1,3 +1,6 @@
+temporary for, waiting for https://github.com/y0ssar1an/q/issues/67
+
+
 # q
 [![CircleCI](https://circleci.com/gh/y0ssar1an/q/tree/master.svg?style=svg)](https://circleci.com/gh/y0ssar1an/q/tree/master)
 [![GoDoc](https://godoc.org/github.com/y0ssar1an/q?status.svg)](https://godoc.org/github.com/y0ssar1an/q)
